@@ -1,0 +1,7 @@
+## Interface: 30000
+## Title: Erie
+## Author: Soeters
+## X-eMail: soeters@free.fr
+## Notes: Straight forward chat add-on
+
+chat.lua
